@@ -2,8 +2,6 @@
 
 I'm a junior developer and vibe coder who turns ideas into practical, user-friendly tools that make everyday computer tasks easier, faster, and more intuitive.
 
-Creator of [soundph.pro](https://soundph.pro).
-
 Find me on [Kick](https://kick.com/nitrodiesel/), [YouTube](https://www.youtube.com/@NotCr1TiKaL), and [X](https://x.com/NitroDieseLTX).
 
 ## Open Source Projects
