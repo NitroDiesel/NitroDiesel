@@ -9,7 +9,3 @@ Find me on [Kick](https://kick.com/nitrodiesel/), [YouTube](https://www.youtube.
 - [**yt-dlp Desktop**](https://github.com/NitroDiesel/yt-dlp-desktop) — A focused, cross-platform desktop interface for yt-dlp, built with Tauri, Rust, React, and SQLite.
 - [**Rufus Linux**](https://github.com/NitroDiesel/rufus-linux) — A native Linux tool for safely inspecting, formatting, and writing removable media.
 - [**Specter**](https://github.com/NitroDiesel/Specter) — A privacy-focused browser extension that keeps supported tabs active when you switch away.
-
-## Website
-
-- [**SoundPH**](https://soundph.pro) — A website created and maintained by me.
