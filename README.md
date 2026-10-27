@@ -7,5 +7,7 @@ Find me on [Kick](https://kick.com/nitrodiesel/), [YouTube](https://www.youtube.
 ## Open Source Projects
 
 - [**yt-dlp Desktop**](https://github.com/NitroDiesel/yt-dlp-desktop) — A focused, cross-platform desktop interface for yt-dlp, built with Tauri, Rust, React, and SQLite.
+- [**yt-dlp TUI**](https://github.com/NitroDiesel/yt-dlp-tui): A keyboard-driven terminal interface for yt-dlp, the terminal counterpart of yt-dlp Desktop, built with Rust and ratatui.
+- [**Firebreak**](https://github.com/NitroDiesel/firebreak): A Windows firewall that blocks every app until you allow it, based on simplewall by Henry++ and rewritten in Rust.
 - [**Rufus Linux**](https://github.com/NitroDiesel/rufus-linux) — A native Linux tool for safely inspecting, formatting, and writing removable media.
 - [**Specter**](https://github.com/NitroDiesel/Specter) — A privacy-focused browser extension that keeps supported tabs active when you switch away.
